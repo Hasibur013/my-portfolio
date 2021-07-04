@@ -14,6 +14,7 @@ h1{
     display: flex;
     background-image: url(img/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -30,4 +31,21 @@ h1{
     font-weight: 700;
     padding: 10px 40px;
     border-radius: 5%;
+}
+
+
+.section-2{
+    display: flex;
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+.section-2 h1{
+    color: #8e44ad;
+    font-weight: 900;
+}
+.p{
+    width: 70%;
+    
 }
